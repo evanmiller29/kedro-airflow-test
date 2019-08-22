@@ -1,0 +1,7 @@
+version: '3.0' # Don't change this
+services:
+    kedro:
+        image: kedro_airflow
+        tty: true
+        volumes:
+            - ./rossman:/usr/local/airflow/rossman
