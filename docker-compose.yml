@@ -4,4 +4,5 @@ services:
         image: kedro_airflow
         tty: true
         volumes:
-            - ./rossman:/usr/local/airflow/rossman
+            - ./airflow_test:/usr/local/airflow/airflow_test
+        command: bash -c "cd airflow_test && kedro build-reqs && kedro install && kedro run && kedro airflow create && kedro airflow deploy"
