@@ -13,7 +13,7 @@ attrs==19.1.0             # via jsonschema, pytest
 babel==2.7.0              # via flask-babel
 backcall==0.1.0           # via ipython
 binaryornot==0.4.4        # via cookiecutter
-bleach==3.1.0             # via nbconvert
+bleach==3.1.1             # via nbconvert
 boto3==1.9.213            # via s3fs
 botocore==1.12.213        # via boto3, s3fs, s3transfer
 certifi==2019.6.16        # via requests
