@@ -94,7 +94,7 @@ pluggy==0.12.0            # via pytest
 poyo==0.5.0               # via cookiecutter
 prometheus-client==0.7.1  # via notebook
 prompt-toolkit==2.0.9     # via ipython, jupyter-console
-psutil==5.6.3             # via apache-airflow, memory-profiler
+psutil==5.6.6             # via apache-airflow, memory-profiler
 ptyprocess==0.6.0         # via pexpect, terminado
 py==1.8.0                 # via pytest
 pyarrow==0.14.1           # via kedro
