@@ -55,7 +55,7 @@ iso8601==0.1.12           # via apache-airflow
 itsdangerous==1.1.0       # via flask
 jedi==0.15.1              # via ipython
 jinja2-time==0.2.0        # via cookiecutter
-jinja2==2.10              # via apache-airflow, cookiecutter, flask, flask-babel, jinja2-time, nbconvert, notebook
+jinja2==2.11.3              # via apache-airflow, cookiecutter, flask, flask-babel, jinja2-time, nbconvert, notebook
 jmespath==0.9.4           # via boto3, botocore
 json-merge-patch==0.2     # via apache-airflow
 jsonschema==3.0.2         # via jupyterlab-launcher, nbformat
