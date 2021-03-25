@@ -111,7 +111,7 @@ python-slugify==3.0.3     # via kedro-airflow
 python3-openid==3.1.0     # via flask-openid
 pytz==2019.2              # via babel, pandas, tzlocal
 pytzdata==2019.2          # via pendulum
-pyyaml==5.1.2             # via flask-swagger, kedro
+pyyaml==5.4             # via flask-swagger, kedro
 pyzmq==18.1.0             # via jupyter-client, notebook
 qtconsole==4.5.3          # via jupyter
 requests==2.22.0          # via apache-airflow, cookiecutter, kedro
