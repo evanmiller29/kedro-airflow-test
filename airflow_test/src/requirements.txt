@@ -98,7 +98,7 @@ psutil==5.6.3             # via apache-airflow, memory-profiler
 ptyprocess==0.6.0         # via pexpect, terminado
 py==1.8.0                 # via pytest
 pyarrow==0.14.1           # via kedro
-pygments==2.4.2           # via apache-airflow, ipython, jupyter-console, nbconvert, qtconsole
+pygments==2.7.4           # via apache-airflow, ipython, jupyter-console, nbconvert, qtconsole
 pyrsistent==0.15.4        # via jsonschema
 pytest-cov==2.7.1
 pytest-mock==1.10.4
