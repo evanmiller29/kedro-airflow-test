@@ -68,7 +68,7 @@ jupyterlab==0.31.1
 kedro-airflow==0.1.0
 kedro==0.15.0
 lockfile==0.12.2          # via python-daemon
-lxml==4.4.1               # via apache-airflow
+lxml==4.6.3               # via apache-airflow
 mako==1.1.0               # via alembic
 markdown==2.6.11          # via apache-airflow
 markupsafe==1.1.1         # via jinja2, mako
