@@ -96,7 +96,7 @@ prometheus-client==0.7.1  # via notebook
 prompt-toolkit==2.0.9     # via ipython, jupyter-console
 psutil==5.6.3             # via apache-airflow, memory-profiler
 ptyprocess==0.6.0         # via pexpect, terminado
-py==1.8.0                 # via pytest
+py==1.10.0                 # via pytest
 pyarrow==0.14.1           # via kedro
 pygments==2.4.2           # via apache-airflow, ipython, jupyter-console, nbconvert, qtconsole
 pyrsistent==0.15.4        # via jsonschema
