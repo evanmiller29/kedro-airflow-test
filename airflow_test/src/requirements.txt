@@ -134,7 +134,7 @@ tornado==6.0.3            # via ipykernel, jupyter-client, notebook, terminado
 traitlets==4.3.2          # via ipykernel, ipython, ipywidgets, jupyter-client, jupyter-core, nbconvert, nbformat, notebook, qtconsole
 tzlocal==1.5.1            # via apache-airflow, pendulum
 unicodecsv==0.14.1        # via apache-airflow
-urllib3==1.25.3           # via botocore, requests
+urllib3==1.26.5           # via botocore, requests
 wcwidth==0.1.7            # via prompt-toolkit
 webencodings==0.5.1       # via bleach
 werkzeug==0.14.1          # via apache-airflow, flask, flask-caching
