@@ -21,7 +21,7 @@ chardet==3.0.4            # via binaryornot, requests
 click==7.0                # via cookiecutter, flask, flask-appbuilder, kedro, pip-tools
 colorama==0.4.1           # via flask-appbuilder
 configparser==3.5.3       # via apache-airflow
-cookiecutter==1.6.0       # via kedro
+cookiecutter==2.1.1       # via kedro
 coverage==4.5.4           # via pytest-cov
 croniter==0.3.30          # via apache-airflow
 decorator==4.4.0          # via ipython, traitlets
