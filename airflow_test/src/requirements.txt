@@ -79,7 +79,7 @@ more-itertools==7.2.0     # via pytest
 nbconvert==5.6.0          # via jupyter, notebook
 nbformat==4.4.0           # via ipywidgets, nbconvert, nbstripout, notebook
 nbstripout==0.3.3
-notebook==6.0.1           # via jupyter, jupyterlab, jupyterlab-launcher, widgetsnbextension
+notebook==6.4.12           # via jupyter, jupyterlab, jupyterlab-launcher, widgetsnbextension
 numexpr==2.7.0            # via tables
 numpy==1.17.0             # via numexpr, pandas, pyarrow, tables
 ordereddict==1.1          # via funcsigs
