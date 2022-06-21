@@ -81,7 +81,7 @@ nbformat==4.4.0           # via ipywidgets, nbconvert, nbstripout, notebook
 nbstripout==0.3.3
 notebook==6.0.1           # via jupyter, jupyterlab, jupyterlab-launcher, widgetsnbextension
 numexpr==2.7.0            # via tables
-numpy==1.17.0             # via numexpr, pandas, pyarrow, tables
+numpy==1.22.0             # via numexpr, pandas, pyarrow, tables
 ordereddict==1.1          # via funcsigs
 pandas==0.25.0            # via apache-airflow, kedro
 pandocfilters==1.4.2      # via nbconvert
