@@ -69,7 +69,7 @@ kedro-airflow==0.1.0
 kedro==0.15.0
 lockfile==0.12.2          # via python-daemon
 lxml==4.4.1               # via apache-airflow
-mako==1.1.0               # via alembic
+mako==1.2.2               # via alembic
 markdown==2.6.11          # via apache-airflow
 markupsafe==1.1.1         # via jinja2, mako
 memory-profiler==0.55.0   # via kedro
