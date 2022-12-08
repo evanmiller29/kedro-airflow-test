@@ -16,7 +16,7 @@ binaryornot==0.4.4        # via cookiecutter
 bleach==3.1.0             # via nbconvert
 boto3==1.9.213            # via s3fs
 botocore==1.12.213        # via boto3, s3fs, s3transfer
-certifi==2019.6.16        # via requests
+certifi==2022.12.7        # via requests
 chardet==3.0.4            # via binaryornot, requests
 click==7.0                # via cookiecutter, flask, flask-appbuilder, kedro, pip-tools
 colorama==0.4.1           # via flask-appbuilder
