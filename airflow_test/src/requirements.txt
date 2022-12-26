@@ -138,7 +138,7 @@ urllib3==1.25.3           # via botocore, requests
 wcwidth==0.1.7            # via prompt-toolkit
 webencodings==0.5.1       # via bleach
 werkzeug==0.14.1          # via apache-airflow, flask, flask-caching
-wheel==0.32.2
+wheel==0.38.1
 whichcraft==0.6.0         # via cookiecutter
 widgetsnbextension==3.5.1  # via ipywidgets
 wtforms==2.2.1            # via flask-admin, flask-wtf
